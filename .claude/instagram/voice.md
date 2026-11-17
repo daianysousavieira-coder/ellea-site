@@ -65,3 +65,9 @@ never invent one, so if this section is empty, every draft comes back with
 - **My keyword CTA, if I use one:** (one word, sayable, no spaces)
 - **What the keyword sends them:**
 - **Where my link goes:**
+
+## Notas de tom (@somosvieiraoficial)
+
+- Tom profissional e institucional, de especialista. NADA de linguagem de blogueira:
+  sem "viralizou", sem contar visualizações, sem "amanhã eu conto mais", sem bastidor de selfie.
+- Fala com servidores públicos, gestores e empresas. Autoridade vem do conteúdo, não do engajamento.
